@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/Football/static/js/main.154898a8.chunk.js",
-    "main.js.map": "/Football/static/js/main.154898a8.chunk.js.map",
-    "runtime-main.js": "/Football/static/js/runtime-main.cfd22798.js",
-    "runtime-main.js.map": "/Football/static/js/runtime-main.cfd22798.js.map",
-    "static/js/2.11f5ab07.chunk.js": "/Football/static/js/2.11f5ab07.chunk.js",
-    "static/js/2.11f5ab07.chunk.js.map": "/Football/static/js/2.11f5ab07.chunk.js.map",
-    "index.html": "/Football/index.html",
-    "static/js/2.11f5ab07.chunk.js.LICENSE.txt": "/Football/static/js/2.11f5ab07.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.154898a8.chunk.js",
+    "main.js.map": "/static/js/main.154898a8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.678a053d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.678a053d.js.map",
+    "static/js/2.036780ca.chunk.js": "/static/js/2.036780ca.chunk.js",
+    "static/js/2.036780ca.chunk.js.map": "/static/js/2.036780ca.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.036780ca.chunk.js.LICENSE.txt": "/static/js/2.036780ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cfd22798.js",
-    "static/js/2.11f5ab07.chunk.js",
+    "static/js/runtime-main.678a053d.js",
+    "static/js/2.036780ca.chunk.js",
     "static/js/main.154898a8.chunk.js"
   ]
 }
