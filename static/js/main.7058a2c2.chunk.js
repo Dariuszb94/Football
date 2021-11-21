@@ -1,2 +1,0 @@
-(this.webpackJsonpfootball=this.webpackJsonpfootball||[]).push([[0],{9:function(t,e,n){"use strict";n.r(e);var c=n(0),o=n.n(c),s=n(3),r=n.n(s),a=n(1);var i=function(){return Object(a.jsx)("div",{className:"App"})};r.a.render(Object(a.jsx)(o.a.StrictMode,{children:Object(a.jsx)(i,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.7058a2c2.chunk.js.map
