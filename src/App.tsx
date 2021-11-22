@@ -67,7 +67,12 @@ const ResetContainer = styled.div`
 `;
 const History = styled.ul`
   list-style: none;
-  margin: 40px 0;
-  padding: 0;
+  margin: 40px 0px;
+  padding: 0px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 `;
 const HistoryLi = styled.li``;
