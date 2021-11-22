@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/Football/static/js/main.a64ca55a.chunk.js",
-    "main.js.map": "/Football/static/js/main.a64ca55a.chunk.js.map",
-    "runtime-main.js": "/Football/static/js/runtime-main.cfd22798.js",
-    "runtime-main.js.map": "/Football/static/js/runtime-main.cfd22798.js.map",
-    "static/js/2.11f5ab07.chunk.js": "/Football/static/js/2.11f5ab07.chunk.js",
-    "static/js/2.11f5ab07.chunk.js.map": "/Football/static/js/2.11f5ab07.chunk.js.map",
-    "index.html": "/Football/index.html",
-    "static/js/2.11f5ab07.chunk.js.LICENSE.txt": "/Football/static/js/2.11f5ab07.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.2b2a71dd.chunk.css",
+    "main.js": "/static/js/main.321aaee6.chunk.js",
+    "main.js.map": "/static/js/main.321aaee6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.678a053d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.678a053d.js.map",
+    "static/js/2.036780ca.chunk.js": "/static/js/2.036780ca.chunk.js",
+    "static/js/2.036780ca.chunk.js.map": "/static/js/2.036780ca.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2b2a71dd.chunk.css.map": "/static/css/main.2b2a71dd.chunk.css.map",
+    "static/js/2.036780ca.chunk.js.LICENSE.txt": "/static/js/2.036780ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cfd22798.js",
-    "static/js/2.11f5ab07.chunk.js",
-    "static/js/main.a64ca55a.chunk.js"
+    "static/js/runtime-main.678a053d.js",
+    "static/js/2.036780ca.chunk.js",
+    "static/css/main.2b2a71dd.chunk.css",
+    "static/js/main.321aaee6.chunk.js"
   ]
 }
