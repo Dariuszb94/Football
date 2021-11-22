@@ -6,6 +6,6 @@ const Header = () => {
 
 export default Header;
 const Title = styled.h1`
-  width: 100%;
+  flex: 100%;
   text-align: center;
 `;

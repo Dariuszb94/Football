@@ -11,4 +11,10 @@ export const Button = styled.button`
   color: #4a4a4a;
   font-weight: 400;
   box-shadow: 0px 0px 2px rgb(55 71 79 / 20%), 0px 8px 12px rgb(0 0 0 / 10%);
+  max-width: 200px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  &:hover {
+    background-color: rgb(250, 250, 250);
+  }
 `;
